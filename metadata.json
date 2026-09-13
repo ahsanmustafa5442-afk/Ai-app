@@ -1,0 +1,6 @@
+{
+  "name": "Binance Futures AI Analyzer",
+  "description": "Multi-timeframe technical confluence analyzer and safe paper trading simulator for Binance Futures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
